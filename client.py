@@ -3,7 +3,6 @@ import threading
 
 server_url = 'http://localhost:5000'
 
-
 # num_pokemons = int(input("Enter the number of Pokemons: "))
 
 # def fetch_pokemons_concurrently():
